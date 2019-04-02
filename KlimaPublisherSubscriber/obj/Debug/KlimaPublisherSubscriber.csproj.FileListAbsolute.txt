@@ -1,0 +1,10 @@
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\bin\Debug\KlimaPublisherSubscriber.exe.config
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\bin\Debug\KlimaPublisherSubscriber.exe
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\bin\Debug\KlimaPublisherSubscriber.pdb
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.csprojAssemblyReference.cache
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.Form1.resources
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.Properties.Resources.resources
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.csproj.GenerateResource.cache
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.exe
+C:\Users\Nemanja\source\repos\KlimaPublisherSubscriber\KlimaPublisherSubscriber\obj\Debug\KlimaPublisherSubscriber.pdb
